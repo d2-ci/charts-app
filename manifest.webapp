@@ -10,7 +10,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 data visualizer app",
-  "version": "32.0.2",
+  "version": "33.0.0",
   "description": "Data visualizer app",
   "developer": {
     "name": "DHIS2 visualization team"
@@ -18,5 +18,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Wed Jun 05 2019 08:03:26 GMT+0000 (UTC)"
+  "manifest_generated_at": "Wed Jun 05 2019 08:08:40 GMT+0000 (UTC)"
 }
