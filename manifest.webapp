@@ -10,7 +10,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 data visualizer app",
-  "version": "33.0.32",
+  "version": "33.0.33",
   "description": "Data visualizer app",
   "developer": {
     "name": "DHIS2 visualization team"
@@ -18,5 +18,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Sun Jun 11 2023 01:51:14 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Mon Jun 12 2023 01:57:01 GMT+0000 (Coordinated Universal Time)"
 }
